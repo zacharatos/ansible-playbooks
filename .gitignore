@@ -12,3 +12,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Ignore inventory file for not exposing your host machines
+inventory
